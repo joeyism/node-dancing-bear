@@ -1,0 +1,23 @@
+{
+  "name": "dancing-bear",
+  "version": "1.0.0",
+  "description": "An animation of a dancing bear",
+  "main": "dancing-bear.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin":{
+    "dancing bear":"example.js"
+  },
+  "keywords":[
+    'dancing',
+    'bear',
+    'stupid',
+    'animation'
+  ]
+  "author": "Joey Sham <sham.joey@gmail.com> (http://www.joeyism.com)",
+  "license": "ISC",
+  "dependencies": {
+    "sleep": "^2.0.0"
+  }
+}

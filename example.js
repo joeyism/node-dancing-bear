@@ -1,0 +1,1 @@
+require('./dancing-bear')(true);
