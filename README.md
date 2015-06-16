@@ -1,6 +1,6 @@
 # Dancing Bear
 
-When run, will display a bear dancing.
+When run, will display a bear dancing. Done using [ascii animation](https://github.com/joeyism/node-ascii-animate).
 
 ### Global
 

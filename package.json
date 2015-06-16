@@ -1,6 +1,6 @@
 {
   "name": "dancing-bear",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "An animation of a dancing bear",
   "main": "dancing-bear.js",
   "scripts": {
