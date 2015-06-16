@@ -7,13 +7,13 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin":{
-    "dancing-bear":"example.js"
+    "dancing bear":"example.js"
   },
   "keywords":[
-    'dancing',
-    'bear',
-    'stupid',
-    'animation'
+    "dancing",
+    "bear",
+    "stupid",
+    "animation"
   ]
   "author": "Joey Sham <sham.joey@gmail.com> (http://www.joeyism.com)",
   "license": "ISC",

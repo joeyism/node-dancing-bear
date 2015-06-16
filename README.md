@@ -10,7 +10,7 @@ To install globally, run
 
 then running
 
-    > dancing-bear
+    > dancing bear
 
 will display the bear
 
