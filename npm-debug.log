@@ -4,9 +4,9 @@
 3 info using node@v0.12.4
 4 verbose publish [ './' ]
 5 verbose stack Error: Failed to parse json
-5 verbose stack Unexpected token '\'' at 13:5
-5 verbose stack     'dancing',
-5 verbose stack     ^
+5 verbose stack Unexpected token 'a' at 18:4
+5 verbose stack   "author": "Joey Sham <sham.joey@gmail.com> (http://www.joeyism.com)",
+5 verbose stack    ^
 5 verbose stack     at parseError (/usr/local/lib/node_modules/npm/node_modules/read-package-json/read-json.js:379:11)
 5 verbose stack     at parseJson (/usr/local/lib/node_modules/npm/node_modules/read-package-json/read-json.js:68:23)
 5 verbose stack     at /usr/local/lib/node_modules/npm/node_modules/read-package-json/read-json.js:48:5
@@ -21,9 +21,9 @@
 11 error file /home/dante/Documents/Programming/nodejs/dancing-bear/package.json
 12 error code EJSONPARSE
 13 error Failed to parse json
-13 error Unexpected token '\'' at 13:5
-13 error     'dancing',
-13 error     ^
+13 error Unexpected token 'a' at 18:4
+13 error   "author": "Joey Sham <sham.joey@gmail.com> (http://www.joeyism.com)",
+13 error    ^
 14 error File: /home/dante/Documents/Programming/nodejs/dancing-bear/package.json
 15 error Failed to parse package.json data.
 15 error package.json must be actual JSON, not just JavaScript.
