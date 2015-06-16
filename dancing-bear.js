@@ -1,15 +1,9 @@
 var bears = require('./lib/bear');
-var sleep = require('sleep');
+var animation = require('ascii-animation');
 var clear = '\033[2J'; 
 
-var dancingBear = function(elapsed){
-    while(elapsed){
-        bears.forEach(function(bear){
-            console.log(clear);
-            console.log(bear);
-            sleep.usleep(200000);
-        });
-    }
+var dancingBear = function(condition){
+    animation.animate(bears, condition);
 }
 
 module.exports = dancingBear;
