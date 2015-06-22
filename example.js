@@ -1,3 +1,13 @@
 #!/usr/bin/env node
+var keypress = require('keypress');
 
-require('./dancing-bear')(function(){return true;});
+keypress(process.stdin);
+
+require('./dancing-bear')(function(){
+    return true;
+}, function(){
+    console.log('done');
+});
+process.stdin.on('keypress', function(){
+    process.exit();
+});

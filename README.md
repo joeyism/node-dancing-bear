@@ -30,3 +30,10 @@ where the dancing bear will dance when *bearcontroller* is true, and stop when *
 ### Source
 
 Dancing bear ASCII is from [here](http://neil.franklin.ch/Jokes_and_Fun/ASCII_Zoo.html)
+
+### Version
+**1.0.2**
+* Updated so it works on windows
+
+**1.0.0**
+* First commit
