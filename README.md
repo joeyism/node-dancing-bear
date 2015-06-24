@@ -32,6 +32,9 @@ where the dancing bear will dance when *bearcontroller* is true, and stop when *
 Dancing bear ASCII is from [here](http://neil.franklin.ch/Jokes_and_Fun/ASCII_Zoo.html)
 
 ### Version
+**1.0.3**
+* Fixed package.json
+
 **1.0.2**
 * Updated so it works on windows
 

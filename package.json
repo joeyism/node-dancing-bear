@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": {
-    "dancing bear": "example.js"
+    "dancing-bear": "example.js"
   },
   "keywords": [
     "dancing",
@@ -19,7 +19,6 @@
   "license": "ISC",
   "dependencies": {
     "ascii-animation": "^1.0.0",
-    "keypress": "^0.2.1",
-    "sleep": "^2.0.0"
+    "keypress": "^0.2.1"
   }
 }
